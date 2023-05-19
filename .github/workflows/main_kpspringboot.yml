@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kpspringboot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CDFD02E3D1944FAAB3294D7C6369FF7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_233B3C11DF724462B0FDCEEBBDA0657A }}
           package: .
