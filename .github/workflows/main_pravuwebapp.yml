@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'pravuwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B0E1D941860497683ACE23174027150 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62E64A63FC484AC69BF549B0251763B4 }}
           package: '*.jar'
